@@ -39,7 +39,16 @@
       <workItem from="1606967103147" duration="2117000" />
       <workItem from="1606969887950" duration="2351000" />
       <workItem from="1606973346933" duration="1039000" />
+      <workItem from="1609288534244" duration="1675000" />
     </task>
+    <task id="LOCAL-00001" summary="Add reflections">
+      <created>1609289074385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609289074385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,5 +65,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add reflections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add reflections" />
   </component>
 </project>
